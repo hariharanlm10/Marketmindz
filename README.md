@@ -35,3 +35,6 @@ A visually rich dashboard summarizing campaign and product KPIs
 Customer segmentation insights to inform future marketing efforts
 
 Identification of key performance drivers influencing buyer behavior
+
+
+<img width="1435" height="830" alt="image" src="https://github.com/user-attachments/assets/0354485b-a359-4b55-bf96-2931c1c42a94" />
